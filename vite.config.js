@@ -10,7 +10,6 @@ export default defineConfig({
         }),
         react(),
     ],
-    base: '/book-app/', 
     resolve: {
         alias: {
             "@": "/resources/js",
